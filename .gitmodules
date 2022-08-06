@@ -1,0 +1,3 @@
+[submodule "Plugins/UEWeaponSystemPlugin"]
+	path = Plugins/UEWeaponSystemPlugin
+	url = https://github.com/jetedonner/UEWeaponSystemPlugin.git
