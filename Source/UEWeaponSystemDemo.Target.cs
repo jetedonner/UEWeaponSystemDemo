@@ -1,14 +1,3 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
-
-using UnrealBuildTool;
-using System.Collections.Generic;
-
-public class UEWeaponSystemDemoTarget : TargetRules
-{
-	public UEWeaponSystemDemoTarget(TargetInfo Target) : base(Target)
-	{
-		Type = TargetType.Game;
-		DefaultBuildSettings = BuildSettingsVersion.V2;
-		ExtraModuleNames.Add("UEWeaponSystemDemo");
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c0bfb75ead7387443b9d3250651e2e7578d424671a0de378e3c568750688b4c2
+size 361
